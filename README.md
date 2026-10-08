@@ -29,9 +29,6 @@ Web kamerası (canlı mod için)
 Windows (font yolları ve CAP_DSHOW Windows için ayarlıdır, bkz. Notlar)
 Adımlar
 bash
-# 1. Depoyu klonlayın
-git clone https://github.com/KULLANICI_ADINIZ/REPO_ADI.git
-cd REPO_ADI
 
 # 2. (İsteğe bağlı) Sanal ortam oluşturun
 python -m venv venv
